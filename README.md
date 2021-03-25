@@ -1,1 +1,3 @@
 # 302Lab4
+
+# This code goes through http://books.toscrape.com/, a website encouraging web scraping and returning the one star books on the first five pages of the site. This is scraping across multiple pages. During this exercise, I faced some debugging syntax issues and had to create some test code to gain a better understanding of the samples given in the lab. However, filtering it over the first five pages and assigning it to print out the one star books was fairly straight forward. I gained a good methodology that could be used when evaluating other websites and working and adjusting to other site formats which will be useful in the future
